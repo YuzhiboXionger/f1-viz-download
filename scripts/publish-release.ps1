@@ -1,4 +1,4 @@
-# 把 Flutter release APK 发布为 GitHub Release 资产
+﻿# 把 Flutter release APK 发布为 GitHub Release 资产
 # 下载页按钮指向 releases/latest/download/app-release.apk，发版无需改页面链接
 # 用法（需已安装并登录 gh CLI）：
 #   powershell -File download-site/scripts/publish-release.ps1 -Version 1.0.0
